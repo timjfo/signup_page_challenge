@@ -1,0 +1,48 @@
+body {
+	background-color: #1E90FF;
+	font-family: Roboto;
+}
+
+img {
+	height: 35px;
+	padding: 15px;
+	width: 120px;
+	/*This didn't work to center it like it did below*/
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+.forms {
+	background: white;
+	padding: 40px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto; 
+	border-radius: 2px;
+}
+
+label {
+	padding: 5px;
+
+}
+
+input {
+	width: 320px;
+	margin-left: auto;
+	padding: 15px;
+	border-radius: 2px;
+}
+
+button {
+	width: 320px;
+	border: 2px;
+	height: 55px;
+	background-color: mediumseagreen;
+	color: white;
+	padding: 15px;
+	font-size: 20px;
+	border-radius: 2px;
+}
+
+
+
